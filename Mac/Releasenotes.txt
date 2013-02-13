@@ -1,0 +1,11 @@
+Install
+=======
+* Copy xfreerdp to /usr/local/bin
+* copy macosx to /usr/local/share/freerdp/keymaps/macosx
+* open Starter.scpt and edit to your needs
+
+Notes
+=====
+* Feb 13 2013: Build is from a git pull dated 2013-02-12 + https://github.com/FreeRDP/FreeRDP/pull/968
+  See CMAKE.sh for cmake build options.
+
